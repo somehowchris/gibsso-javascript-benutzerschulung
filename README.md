@@ -1,5 +1,7 @@
 # Website für Schulungszweck
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/somehowchris/Benutzerschulung.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
